@@ -1,0 +1,7 @@
+Cliente: María Sánchez
+Dirección: Calle 20 # 1-23
+----------------
+----------------
+Precio Neto:  0
+IVA:          0
+Precio Total: 0
